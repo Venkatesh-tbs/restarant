@@ -1,0 +1,4 @@
+1,5,booked
+2,4,free
+3,7,free
+10,7,free

@@ -1,0 +1,5 @@
+1,Idli,30.0
+2,Dosa,50.0
+3,Pongal,45.0
+4,Biriyani,120.0
+7,chicken rise,120.0
